@@ -1,0 +1,7 @@
+.vs/
+__vm/
+Debug/
+!Release/
+Release/*
+!Release/Sang_prj_final.bin
+desktop.ini
